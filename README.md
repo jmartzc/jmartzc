@@ -1,74 +1,33 @@
-# Hi 👋, I'm Juan Martínez
+# Juan Martínez
 
-## A passionate frontend developer from Spain
+### Web Developer
 
-### 🔭 I’m currently working on:
-- [Home Essence](#) - A sleek interior design website built with HTML, CSS, and JavaScript.
-- [CorWeb](#) - My own web development agency.
+I am a passionate web developer with experience in **front-end** technologies like HTML and CSS. Currently, I am learning JavaScript, Java, and WordPress to expand my skillset.
 
-### 👯 I’m looking to collaborate on:
-- Open-source frontend projects.
-- Innovative web design initiatives.
+### My Skills
 
-### 🤝 I’m looking for help with:
-- Improving backend skills and learning more about Node.js and Spring.
+- **Front-end**: HTML, CSS
+- **Learning**: JavaScript, Java, WordPress
 
-### 🌱 I’m currently learning:
-- **Frameworks**: React, Vue, Angular.
-- **Courses**: Responsive Web Design, Java for Full Stack Development.
+### Featured Project
 
-### 💬 Ask me about:
-- Frontend technologies like React, Vue, and animations with GSAP.
+- **[Home Essence](https://github.com/juanmanuelm01/Home-Essence)**: An interior design website, built with HTML, CSS, and JavaScript.
 
-### 📫 How to reach me:
-- Email: juanmartinez@example.com
-- LinkedIn: [Juan Martínez](https://linkedin.com/in/juan-martinez)
+### What I am currently learning
 
-### 👨‍💻 All of my projects are available at:
-- [My Portfolio](#)
+- **JavaScript**
+- **Java**
+- **WordPress development**
+- **Databases**
 
-### 📝 I regularly write articles on:
-- (Coming soon...)
+### My Goals
 
-### 📄 Know about my experiences:
-- [Resume](#)
-
-### ⚡ Fun fact:
-I think I am funny. 😄
+My goal is to continue learning and gaining experience to offer innovative and high-quality solutions as a web developer. In the future, I aspire to work as a full stack developer and contribute to exciting projects.
 
 ---
 
-## 🛠️ Skills:
+### Contact
 
-### Programming Languages:
-- JavaScript, Java, HTML5, CSS3
-
-### Frontend Development:
-- React, Vue.js, Tailwind CSS, Bootstrap
-
-### Backend Development:
-- Node.js, Express, Spring (beginner)
-
-### Database:
-- MySQL, MongoDB
-
-### DevOps & Tools:
-- Git, Docker, Postman
-
-### Design Tools:
-- Figma, Adobe Photoshop
-
----
-
-## 📈 GitHub Stats:
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-
-## 🌐 Social:
-- [GitHub](https://github.com/yourgithubusername)
-- [Twitter](https://twitter.com/yourtwitterusername)
-- [LinkedIn](https://linkedin.com/in/juan-martinez)
-
----
-
-## Support Me:
-- [Buy Me a Coffee](https://buymeacoffee.com/juanmartinez)
+- **LinkedIn**: [Juan Martínez](www.linkedin.com/in/juan-manuel-martinez-corral)
+- **Email**: juanma.martinezcorral@gmail.com
+- **Instagram**: [@juanmc2_](https://www.instagram.com/juanmc2_/)
